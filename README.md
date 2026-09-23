@@ -7,7 +7,7 @@ So I decided to make a small patch that fixes this bug.
 
 # Installation
 
-1. Download the [patched binary](https://github.com/Zaqzxcswsde/HoPiKo-playlist-shuffle-fix/releases/) from the latest release
+1. Download the [patched `Assembly-CSharp.dll`](https://github.com/Zaqzxcswsde/HoPiKo-playlist-shuffle-fix/releases/) from the latest release
 
 1. Open the game's folder: in Steam Library Right Click on HoPiKo > `Properties` > `Installed Files` > `Browse...`
 
