@@ -75,7 +75,7 @@ If you would rather apply the patch manually (or if the original patched binary 
 
 I'm not a Unity developer, nor have I ever made game patches like this before, so I did use AI for the *initial codebase research* and for *identifying the actual bug*.
 
-However, **I did verify its output** by myself and then **reproduced the fix on my own**, including writing the code and all coming up with the steps above, just to be sure.
+However, **I did verify its output** by myself and then **reproduced the fix on my own**, including writing the code and coming up with the steps above, just to be sure.
 
 
 # Note for experienced modders
