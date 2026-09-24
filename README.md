@@ -62,7 +62,7 @@ If you would rather apply the patch manually (or if the original patched binary 
 1. Open `Search Assemblies` menu (press `Ctrl+Shift+K`), search for `AudioManager Update`, double click on the only result (`void Update()`)
 
 1. This will navigate you to the `Update()` function in the main code window of `dnSpy`, Right Click on the `private void Update()` line, select `Edit Method (C#)...`\
-(or you can just press `Ctrl+Shift+E` right after the previous hotkey)
+(or you can just press `Ctrl+Shift+E` right after the double click)
 
 1. In the newly opened window, replace all (`Ctrl+A`) code with the contents of [`Update.cs`](https://github.com/Zaqzxcswsde/HoPiKo-playlist-shuffle-fix/blob/main/src/Update.cs) file from this repository, click `Compile`
 
